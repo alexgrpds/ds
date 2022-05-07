@@ -4,8 +4,8 @@
 //
 // The program takes only txt files as input. 
 // It goes through the file character by character, checking for double 
-// spaces. Then a the original file is overwritten with the contents of
-// the file, with any double spaces removed  
+// spaces. Then the original file is overwritten with the contents of
+// the processed buffer, with any double spaces removed. 
 
 #include <stdio.h>
 #include <string.h>
